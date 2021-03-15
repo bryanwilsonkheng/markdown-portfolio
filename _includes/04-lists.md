@@ -1,5 +1,6 @@
 1. Bryan
-  - Hello
+  1. Hello
 2. Wilson
   * Kheng
+    * Hi
   * Kheng
